@@ -1,0 +1,26 @@
+{
+    "name": "nodejs-fileupload-example",
+    "description": "Simple examples to explore Node.js node-formidable module",
+    "version": "0.1",
+    "main": "main.js",
+    "author": {
+        "name": "gyszalai",
+        "email": "gyszalai@gmail.com"
+    },
+    "keywords": ["node.js", "events"],
+    "license": {
+        "type": "apache20"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gyszalai/nodejs-fileupload-example.git"
+    },
+    "bugs": {
+        "web": "http://github.com/gyszalai/nodejs-fileupload-example/issues"
+    },
+    "dependencies": {
+        "formidable": ">=1.0.13",
+        "http": "",
+        "util": ""
+    }
+}
